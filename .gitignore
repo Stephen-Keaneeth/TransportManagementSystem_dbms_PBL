@@ -1,0 +1,25 @@
+# PDF files
+*.pdf
+
+# Documents and Office formats
+*.doc
+*.docx
+*.odt
+*.rtf
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+docs/
+
+# Python / Environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# IDE / Editor artifacts
+.vscode/
+.idea/
+
